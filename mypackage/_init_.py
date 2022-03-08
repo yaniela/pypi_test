@@ -1,0 +1,1 @@
+from mypackage.grahics_functions import show_palette,change_color_palette
