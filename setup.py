@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'mypackage',         # How you named your package folder (MyLib)
-  packages = ['mypackage'],   # Chose the same as "name"
+  name = 'mypackage1',         # How you named your package folder (MyLib)
+  packages = ['mypackage1'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Graphics library for some uses in exploratory analysis',   # Give a short description about your library
