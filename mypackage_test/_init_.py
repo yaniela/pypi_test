@@ -1,1 +1,0 @@
-from mypackage_test.grahics_functions import show_palette,change_color_palette
