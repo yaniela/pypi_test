@@ -8,7 +8,7 @@ setup(
   author = 'Yaniela',                   # Type in your name
   author_email = 'yanielajanis@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/yaniela/pypi_test',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/yaniela/pypi_test/archive/refs/tags/v0.2.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/yaniela/pypi_test/archive/refs/tags/v0.3.tar.gz',    # I explain this later on
   keywords = ['graphics', 'colors', 'palette'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
